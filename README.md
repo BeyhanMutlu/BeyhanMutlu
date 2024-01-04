@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://static.vecteezy.com/system/resources/thumbnails/021/998/682/small/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg)
-
 <h1 align="center">Hi 👋, I'm Beyhan Mutlu</h1>
 <h3 align="center">Software developer from Türkiye</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
