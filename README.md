@@ -2,7 +2,6 @@
 <h3 align="center">Software developer from Türkiye</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyhanmutlu&label=Profile%20views&color=0e75b6&style=flat" alt="beyhanmutlu" /> </p>
 
 Experienced and results driven Software Developer with over 6 years in the industry. I have a proven track record of 
 delivering custom tailored solutions for diverse companies. Proficient in problem solving, requirement identification, and 
